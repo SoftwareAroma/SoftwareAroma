@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey There, Musah Ibrahim here...
 I’m working on a rare disease detection machine learning model for hospitals.<br>I'm currently learning Algorithmic Programming.<br>I love working with Python, Dart, and Kotlin.<br>I am looking forward to collaborating on ML and DL projects for assistive technology.<br>Ask me about AI, ML, DL, and data science.<br>
 
 
