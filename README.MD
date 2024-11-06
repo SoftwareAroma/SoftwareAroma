@@ -18,6 +18,9 @@ I’m working on a rare disease detection machine learning model for hospitals.<
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### Plugins
+<iframe width="384px" height="319px" src="https://plugins.jetbrains.com/embeddable/card/25756"></iframe>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SoftwareAroma&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
